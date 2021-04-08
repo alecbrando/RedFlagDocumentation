@@ -1,6 +1,6 @@
 # RedFlag a React Native App
 
-<div style="flex-direction: row;">
+<div style="flex-direction: row; align-items: flex-start;">
    <h1>Account Creation Process</h1>
    <a href="https://reactnative.gallery/xcarpentier/e0d8eff7-0dfb-4823-8576-a615267354cc">
     <img alt="react-native-redflag-account-creation" src="https://thumbs.gfycat.com/CautiousSpanishAnhinga-size_restricted.gif" width="260" height="510" />
