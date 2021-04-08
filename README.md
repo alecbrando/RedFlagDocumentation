@@ -5,7 +5,7 @@ Red Flag Dating App
 
 <p align="center" >
    <a href="https://reactnative.gallery/xcarpentier/e0d8eff7-0dfb-4823-8576-a615267354cc">
-    <img alt="react-native-redflag-account-creation" src="https://thumbs.gfycat.com/WaterloggedWeirdBee-mobile.mp4" width="260" height="510" />
+    <img alt="react-native-redflag-account-creation" src="https://thumbs.gfycat.com/WaterloggedWeirdBee-mobile.gif" width="260" height="510" />
  </a>
 </p>
 
