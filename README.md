@@ -1,5 +1,3 @@
-# RedFlag a React Native App
-
 <div align="center">
    <h1>Account Creation Process</h1>
    <a href="https://reactnative.gallery/xcarpentier/e0d8eff7-0dfb-4823-8576-a615267354cc">
