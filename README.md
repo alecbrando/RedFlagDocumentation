@@ -2,9 +2,12 @@
 Red Flag Dating App
 
 * Account Creation
+	
+<p align="center" >
 <a href="https://reactnative.gallery/xcarpentier/e0d8eff7-0dfb-4823-8576-a615267354cc">
-    <img alt="redflag-accountcreation" src="https://giant.gfycat.com/ElaboratePossibleAdder.webm" width="260" height="510" />
+    <img alt="redflag-accountcreation" src="https://giant.gfycat.com/ElaboratePossibleAdder.mp4" width="260" height="510" />
  </a>
+</p>
 
 **Front End**
 
