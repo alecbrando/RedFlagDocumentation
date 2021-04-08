@@ -4,10 +4,9 @@ Red Flag Dating App
 * Account Creation
 	
 <p align="center" >
-<a href="https://thumbs.gfycat.com/ElaboratePossibleAdder-poster.jpg">
-    <img alt="redflag-accountcreation" src="https://giant.gfycat.com/ElaboratePossibleAdder.mp4" width="260" height="510" />
- </a>
+<video autoplay="" loop="" playsinline="" preload="none" muted="" poster="https://thumbs.gfycat.com/ElaboratePossibleAdder-poster.jpg" style="width:100%;height:100%;position:absolute;top:0;left:0;transform:none"><track kind="captions"><source src="https://giant.gfycat.com/ElaboratePossibleAdder.webm" type="video/webm"><source src="https://giant.gfycat.com/ElaboratePossibleAdder.mp4" type="video/mp4"></video>
 </p>
+
 
 **Front End**
 
