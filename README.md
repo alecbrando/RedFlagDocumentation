@@ -15,7 +15,7 @@
 </p>
 
 <p align="center" >
-   <h1>Editing Account</h1>
+   <h1>Viewing other account's</h1>
    <a href="https://reactnative.gallery/xcarpentier/512c304b-00f4-4d9e-a9a7-94dca48e79dd">
     <img alt="react-native-redflag-account-viewing" src="https://thumbs.gfycat.com/EnergeticQueasyHypsilophodon-size_restricted.gif" width="260" height="510" />
  </a>
