@@ -1,6 +1,6 @@
 # RedFlag a React Native App
 
-<div style="flex-direction: row; align-items: flex-start;">
+<div align="center">
    <h1>Account Creation Process</h1>
    <a href="https://reactnative.gallery/xcarpentier/e0d8eff7-0dfb-4823-8576-a615267354cc">
     <img alt="react-native-redflag-account-creation" src="https://thumbs.gfycat.com/CautiousSpanishAnhinga-size_restricted.gif" width="260" height="510" />
@@ -9,15 +9,12 @@
    <a href="https://reactnative.gallery/xcarpentier/512c304b-00f4-4d9e-a9a7-94dca48e79dd">
     <img alt="react-native-redflag-account-editing" src="https://media4.giphy.com/media/oIhcy8vQveEXIs5ndc/giphy.gif" width="260" height="510" />
  </a>
-</div>
-
-
-<p align="center" >
    <h1>Viewing other account's</h1>
    <a href="https://reactnative.gallery/xcarpentier/512c304b-00f4-4d9e-a9a7-94dca48e79dd">
     <img alt="react-native-redflag-account-viewing" src="https://thumbs.gfycat.com/EnergeticQueasyHypsilophodon-size_restricted.gif" width="260" height="510" />
  </a>
-</p>
+</div>
+
 
 
 **Front End**
