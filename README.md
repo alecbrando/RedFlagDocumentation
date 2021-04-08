@@ -1,6 +1,4 @@
-# RedFlagReactNativeApp
-Red Flag Dating App
-
+# RedFlag a React Native App
 
 <p align="center" >
    <h1>Account Creation Process</h1>
