@@ -2,9 +2,11 @@
 Red Flag Dating App
 
 * Account Creation
-	
+
 <p align="center" >
-<video autoplay="" loop="" playsinline="" preload="none" muted="" poster="https://thumbs.gfycat.com/ElaboratePossibleAdder-poster.jpg" style="width:100%;height:100%;position:absolute;top:0;left:0;transform:none"><track kind="captions"><source src="https://giant.gfycat.com/ElaboratePossibleAdder.webm" type="video/webm"><source src="https://giant.gfycat.com/ElaboratePossibleAdder.mp4" type="video/mp4"></video>
+   <a href="https://reactnative.gallery/xcarpentier/e0d8eff7-0dfb-4823-8576-a615267354cc">
+    <img alt="react-native-redflag-account-creation" src="https://thumbs.gfycat.com/WaterloggedWeirdBee-mobile.mp4" width="260" height="510" />
+ </a>
 </p>
 
 
